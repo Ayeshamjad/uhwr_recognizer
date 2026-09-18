@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ignore model weights
+*.pt
+*.pth
+*.ckpt
+
+# Ignore images inside results
+results_uhwr_long/**/*.png
+results_uhwr_long/**/*.jpg
+results_uhwr_long/**/*.jpeg
+
+# W&B
+wandb/

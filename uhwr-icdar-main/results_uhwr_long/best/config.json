@@ -1,0 +1,8 @@
+{
+  "vocab_size": 261,
+  "bos": 0,
+  "eos": 2,
+  "pad": 1,
+  "visual_positions": 2048,
+  "architecture": "uhwr-mixed-long-line-v1"
+}
